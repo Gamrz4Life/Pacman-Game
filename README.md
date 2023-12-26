@@ -32,3 +32,4 @@ Just Download the **Pacman** folder and run the exe from within the folder.
 3. In the game the purpose is to eat the pellets while avoid colliding with the ghosts.
 4. If you eat the Big Pellet known as energizer  for a small duration you are now able to eat the ghosts and send them back to their homes.
 ## Screenshots
+![Chasing Ghost](https://github.com/Gamrz4Life/Pacman-Game/blob/main/Screenshots/Chasing%20Ghost.png)
